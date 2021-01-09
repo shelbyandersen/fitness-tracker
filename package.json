@@ -12,8 +12,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelbyandersen/fitness-tracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shelbyandersen/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/shelbyandersen/fitness-tracker#readme"
 }
